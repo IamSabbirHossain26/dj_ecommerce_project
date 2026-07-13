@@ -29,7 +29,7 @@ Planned/core features for the project:
 
 ## Project Structure
 
-```text
+```this is a test project
 dj_ecommerce_project/
 ├── ecommerce/        # Django project source code
 ├── .gitignore
