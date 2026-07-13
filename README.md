@@ -18,7 +18,7 @@ Planned/core features for the project:
 - Admin dashboard for managing products and orders
 - Responsive user interface
 
-## Tech Stack
+## Tech Stack For this project
 
 - Python
 - Django
