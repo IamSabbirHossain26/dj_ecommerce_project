@@ -5,7 +5,7 @@ readme = """# Django E-Commerce Project
 A beginner-friendly e-commerce web application built with **Django**.  
 This repository currently contains the initial Django project setup and can be extended with products, categories, cart, checkout, authentication, and order management.
 
-## Features
+## Features are here 
 
 Planned/core features for the project:
 
