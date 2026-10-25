@@ -1,4 +1,4 @@
-# from pathlib import Path for this project
+# From pathlib import Path
 
 readme = """# Django E-Commerce Project
 
